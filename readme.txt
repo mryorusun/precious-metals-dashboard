@@ -1,6 +1,6 @@
 # 📈 Precious Metals: Macroeconomic Trend & Volatility Analysis (1980–2026)
 
-![Banner](banner.jpg)
+![Banner](banner.png)
 
 ## 🎯 Executive Summary
 This project is a comprehensive data analysis of the precious metals market (Gold, Silver, Platinum, Palladium) spanning 45 years. It transitions from raw historical data to actionable financial intelligence, analyzing how global economic shocks translate into asset volatility and price action.
