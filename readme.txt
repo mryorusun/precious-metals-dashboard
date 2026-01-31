@@ -1,4 +1,6 @@
-# 📈 Precious Metals: Macroeconomic Trend & Volatility Analysis (1980–2026)
+# 📈 Precious Metals: Macroeconomic Trend & Volatility Analysis
+
+![Excel](https://img.shields.io/badge/Excel-Dashboard-green?style=flat-square&logo=microsoft-excel) ![Python](https://img.shields.io/badge/Python-Analysis-blue?style=flat-square&logo=python) ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
 ![Banner](banner.png)
 
