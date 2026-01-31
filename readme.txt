@@ -1,65 +1,48 @@
-# 📊 Precious Metals Annual Price & Correlation Dashboard (1980–2026)
+# 📈 Precious Metals: Macroeconomic Trend & Volatility Analysis (1980–2026)
 
-This Excel-based dashboard presents a comprehensive analysis of **gold, silver, platinum, and palladium** prices in USD/oz from 1980 to 2026. It includes annual returns, correlation metrics, and concise economic annotations for each year.
+![Banner](banner.jpg)
 
----
-
-## 🧩 Contents
-
-### 1. `DEĞERLİ MADENLER` (Main Data Sheet)
-- Annual opening prices for each metal
-- Year-over-year percentage changes
-- Economic context for each year
-- 2025–2026 data updates dynamically based on current date
-
-### 2. `KORELASYON` (Correlation Sheet)
-- Automatically calculated correlations between metals
-- Based on percentage returns (not raw prices)
-- Uses Excel’s `=CORREL()` function for dynamic updates
-
-### 3. `DASHBOARD` (Split into Two Views)
-- 📈 **Price Dashboard**: Visual comparison of annual USD/oz prices for each metal
-- 📊 **Return Dashboard**: Year-over-year percentage gain/loss visualization
-- Scaled charts for clarity (multipliers noted)
-- Clean layout for presentations or quick insights
+## 🎯 Executive Summary
+This project is a comprehensive data analysis of the precious metals market (Gold, Silver, Platinum, Palladium) spanning 45 years. It transitions from raw historical data to actionable financial intelligence, analyzing how global economic shocks translate into asset volatility and price action.
 
 ---
 
-## 🎯 Purpose
+## 🔬 Statistical Insights & Market Dynamics
 
-- Analyze long-term trends in precious metals
-- Understand how global events impact commodity prices
-- Explore inter-metal relationships via correlation
-- Use in academic, financial, or portfolio research
+Forget simple price tracking. This analysis focuses on **Asset Co-movement** and **Volatility Spikes**:
 
----
-
-## 🛠️ Technical Highlights
-
-- ✅ Returns-based correlation (not price-based)
-- ✅ Annotations summarize key macroeconomic or geopolitical events
-- ✅ Decimal precision standardized to 2 digits
-- ✅ Dashboard split into price and return views for clarity
+* **The Gold-Silver Nexus:** A high positive correlation (**0.77**) confirms Silver's role as a high-beta proxy for Gold, amplifying market sentiment.
+* **Industrial vs. Safe-Haven:** Platinum and Palladium show a **0.60** correlation, driven by automotive industry cycles, while showing significant decoupling from Gold during periods of industrial supply shortages.
+* **Historical Contextualization:** Every major price pivot is mapped against macroeconomic events (e.g., 1980 Soviet-Afghan War, 2008 Financial Crisis, 2020 Global Pandemic).
 
 ---
 
-## 💡 Future Enhancements
+## 🛠️ Technical Stack & Methodology
 
-- Add monthly or weekly data granularity
-- Integrate live data via API
-- Generate automated PDF reports
-- Add slicers or dropdowns for interactive filtering
-
----
-
-## 👤 Created by
-
-**Koray**  
-🎓 Political Science & Public Administration  
-📊 Excel | Python | SPSS | SQL  
-🔍 Focus: Economic data analysis, historical financial context, dashboard design  
-🌐 GitHub: [github.com/mryorusun](#)
+* **Data Engineering:** Automated Year-over-Year (YoY) return calculations and multi-scale normalization for cross-asset comparison.
+* **Exploratory Data Analysis (EDA):** Detailed visual mapping of 4-decade price trends and return distributions.
+* **Statistical Validation:** Moving beyond basic spreadsheets—utilizing return-based dependency matrices to identify asset relationship shifts over time.
+* **Modern Workflow:** Data cleaning and validation performed using Python-driven methodologies to ensure financial accuracy.
 
 ---
 
-![Precious Metals Dashboard](banner.png)
+## 📊 Visual Intelligence
+
+| Long-term Price Trajectories | Asset Correlation Heatmap |
+| :--- | :--- |
+| ![Trends](degerli%20madenler%20yillara%20gore%20fiyat%20degisimi%20(1980-2024).png) | ![Heatmap](2010%20sonrasi%20degerli%20maden%20fiyat%20trendleri.png) |
+
+> **Note:** Silver values are scaled (x50) in visualizations to provide a clearer relative trend analysis against higher-valued assets like Gold and Platinum.
+
+---
+
+## 👤 About the Author
+
+**Koray** 📊 **Data Analyst** *Specializing in Financial Data Science & Economic Trend Analysis*
+
+* **Tools:** Python, SQL, Excel
+* **Focus:** Identifying patterns in market volatility and historical financial data.
+* **GitHub:** [github.com/mryorusun](https://github.com/mryorusun)
+
+---
+*Data Source: Historical Commodity Market Records (1980-2026)*
