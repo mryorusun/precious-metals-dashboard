@@ -49,16 +49,16 @@ Below is a focused analysis of asset correlations in the modern economic era, hi
 * **Data Engineering:** Automated Year-over-Year (YoY) return calculations and multi-scale normalization.
 * **Exploratory Data Analysis (EDA):** Detailed mapping of 4-decade volatility and price action.
 * **Statistical Validation:** Utilizing return-based dependency matrices to identify asset relationship shifts over time.
-* **Tools:** Python (Pandas, Seaborn, Matplotlib), SQL, Excel (Advanced Modeling).
+* **Tools:** Python, SQL, Excel.
 
 ---
 
 ## 👤 About the Author
 
-**Koray** 📊 **Data Analyst** *Specializing in Financial Data Science & Economic Trend Analysis*
+**Koray** 📊 **Data Analyst**
 
 * **Expertise:** Identifying patterns in market volatility and historical financial data.
 * **Connect:** [GitHub Profile](https://github.com/mryorusun)
 
 ---
-*Data Source: Historical Commodity Market Records (1980-2026)*
+*Data Source: https://tr.tradingview.com/symbols/GOLD/ (1980-2026)*
