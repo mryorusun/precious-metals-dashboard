@@ -33,7 +33,7 @@ To maintain a professional workflow, the repository is organized as follows:
 
 | Historical Price Trajectories | Long-term Correlation Matrix |
 | :--- | :--- |
-| ![Trends](visuals/price_trends_1980_2024.png.png) | ![Matrix](visuals/correlation_matrix_longterm.png) |
+| ![Trends](visuals/price_trends_1980_2024.png) | ![Matrix](visuals/correlation_matrix_longterm.png) |
 
 ### 🔍 Deep Dive: Post-2010 Dynamics
 Below is a focused analysis of asset correlations in the modern economic era, highlighting the impact of digital markets and recent supply chain shifts:
