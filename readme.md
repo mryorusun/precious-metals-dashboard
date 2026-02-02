@@ -55,7 +55,7 @@ Below is a focused analysis of asset correlations in the modern economic era, hi
 
 ## 👤 About the Author
 
-**Koray** 📊 **Data Analyst**
+**Koray Yörüsün** 📊 **Data Analyst**
 
 * **Expertise:** Identifying patterns in market volatility and historical financial data.
 * **Connect:** [GitHub Profile](https://github.com/mryorusun)
