@@ -61,4 +61,4 @@ Below is a focused analysis of asset correlations in the modern economic era, hi
 * **Connect:** [GitHub Profile](https://github.com/mryorusun)
 
 ---
-*Data Source: https://tr.tradingview.com/symbols/GOLD/ (1980-2026)*
+*Data Source: https://tr.tradingview.com (1980-2026)*
